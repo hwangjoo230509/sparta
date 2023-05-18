@@ -79,7 +79,7 @@
       max-width: 1000px;
       margin: auto;
       background-image: url('https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzAzMDZfMTYy%2FMDAxNjc4MDI4NDU3OTg5.12A30-SGTRNEbRV0Ialtqbo9wtn4mPld3RKdHqToErAg.p-nCT0JfAYHTUSA49TjDZ6LBd89uwsUBu62aK0UqmcEg.JPEG.2579dlsgh%2Fcode-gc3716823e_1920.jpg&type=sc960_832');
-      padding: 100px;
+      padding: 50px;
       display: flex;
       justify-content: space-around;
     }
